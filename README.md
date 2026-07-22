@@ -1,5 +1,5 @@
 # Hi there, I'm Krishna (aka 8BitKrishna) 👋
-### 🚀 Aspiring AI Engineer | Future IITian | Builder of Intelligent Systems
+###  Aspiring AI Engineer | Future IITian | Builder of Intelligent Systems
 
 > *"I don't just write code; I teach machines how to think."*
 
@@ -7,14 +7,14 @@ Welcome to my digital workspace! I'm a 17-year-old **AIML Enthusiast** and **Fir
 
 ---
 
-### 🧠 About Me
-- 🔭 **Current Focus:** Deepening my understanding of Neural Networks, AI Architectures, and Data Structures.
-- 🎯 **Grand Goal:** Become the Top 1% coder.
-- 🤖 **The Visionary Project:** Currently architecting **NIKO** (Neural Intelligence & Kinetic Operations), a personal AI assistant inspired by the likes of JARVIS, designed to optimize human workflow with minimal error.
-- 🛠️ **Past Wins:** 
+###  About Me
+-  **Current Focus:** Deepening my understanding of Neural Networks, AI Architectures, and Data Structures.
+-  **Grand Goal:** To become the Top 1% coder.
+-  **The Visionary Project:** Currently architecting **NIKO** (Neural Intelligence & Kinetic Operations), a personal AI assistant inspired by the likes of JARVIS, designed to optimize human workflow with minimal error.
+-  **Past Wins:** 
   - Built a fully functional **Python-MySQL Bank Management System** (CLI based), mastering database connectivity and logic flow line-by-line.
   - Disassembled and analyzed hardware/software systems to understand core mechanics.
-- 📚 **Hobbies:** Reading AI Research Papers, Singing, and Exploring the "Why" behind every technology.
+-  **Hobbies:** Reading AI Research Papers, Singing, and Exploring the "Why" behind every technology.
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my digital workspace! I'm a 17-year-old **AIML Enthusiast** and **Fir
 
 ---
 
-### 🌱 My Journey So Far
+###  My Journey So Far
 
 - **2025:** Passed Class XII with **84%+ (Best of 4)**, securing 96/100 in English and 81/100 in CS. Took a drop for JEE preparation, learning resilience and advanced problem-solving.
 - 
@@ -39,7 +39,7 @@ Welcome to my digital workspace! I'm a 17-year-old **AIML Enthusiast** and **Fir
 
 ---
 
-### 🚀 What's Next?
+###  What's Next?
 
 I am currently rebuilding my projects with a modern tech stack and diving deeper into **Deep Learning**. 
 - ♻️ **Next Big Build:** Upgrading the Bank Management System into a full-fledged **App with UI**.
