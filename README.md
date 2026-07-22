@@ -49,9 +49,9 @@ I am currently rebuilding my projects with a modern tech stack and diving deeper
 
 ### 🤝 Let's Connect
 I'm always open to discussing **AI Research**, **Neural Networks**, or **Tech Innovations**.
-- 📫 **Reach me:** rawkrishnaa@gmail.com
-- 📸 **Instagram:** @8BitKrishna](https://instagram.com/8BitKrishna
-- 💼 **LinkedIn:** https://www.linkedin.com/in/8bitkrishna/
+- 📫 **Reach me:** [rawkrishnaa@gmail.com]
+- 📸 **Instagram:** @8BitKrishna [https://instagram.com/8BitKrishna]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/8bitkrishna/]
 
 *"The best way to predict the future is to invent it."* – Alan Kay
 
