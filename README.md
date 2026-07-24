@@ -1,5 +1,5 @@
 # Hi there, I'm Krishna (aka 8BitKrishna) 👋
-###  Aspiring AI Engineer | Future IITian | Builder of Intelligent Systems
+###  Aspiring AI Engineer | Builder of Intelligent Systems
 
 > *"I don't just write code; I teach machines how to think."*
 
