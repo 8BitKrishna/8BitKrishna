@@ -11,7 +11,6 @@ Welcome to my digital workspace! I'm a 17-year-old **AIML Enthusiast** and **Fir
 -  **Current Focus:** Deepening my understanding of Neural Networks, AI Architectures, and Data Structures.
 -  **Grand Goal:** To become the Top 1% coder.
 -  **The Visionary Project:** Currently architecting **NIKO** (Neural Intelligence & Kinetic Operations), a personal AI assistant inspired by the likes of JARVIS, designed to optimize human workflow with minimal error.
--  **Past Wins:** 
   - Built a fully functional **Python-MySQL Bank Management System** (CLI based), mastering database connectivity and logic flow line-by-line.
   - Disassembled and analyzed hardware/software systems to understand core mechanics.
 -  **Hobbies:** Reading AI Research Papers, Singing, and Exploring the "Why" behind every technology.
