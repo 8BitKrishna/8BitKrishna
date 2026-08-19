@@ -48,7 +48,7 @@ I am currently rebuilding my projects with a modern tech stack and diving deeper
 
 ### 🤝 Let's Connect
 I'm always open to discussing **AI Research**, **Neural Networks**, or **Tech Innovations**.
-- 📫 **Reach me:** [rawkrishnaa@gmail.com]
+- 📫 **Reach me:** [8bitkrishnaa@gmail.com]
 - 📸 **Instagram:** @8BitKrishna [https://instagram.com/8BitKrishna]
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/8bitkrishna/]
 
