@@ -1,18 +1,179 @@
-# 💫 About Me:
-# Hi there, I'm Krishna (aka 8BitKrishna) 👋<br>###  Aspiring AI Engineer | Builder of Intelligent Systems<br><br>> *"I don't just write code; I teach machines how to think."*<br><br>Welcome to my digital workspace! I'm a 17-year-old **AIML Enthusiast** and **First-Year B.Tech Student** based in New Delhi. My journey is driven by an insatiable curiosity to understand **how things work**—from the transistors in a CPU to the neural networks in the human brain.<br><br>---<br><br>###  About Me<br>-  **Current Focus:** Deepening my understanding of Neural Networks, AI Architectures, and Data Structures.<br>-  **Grand Goal:** To become the Top 1% coder.<br>-  **The Visionary Project:** Currently architecting **NIKO** (Neural Intelligence & Kinetic Operations), a personal AI assistant inspired by the likes of JARVIS, designed to optimize human workflow with minimal error.<br>  - Built a fully functional **Python-MySQL Bank Management System** (CLI based), mastering database connectivity and logic flow line-by-line.<br>  - Disassembled and analyzed hardware/software systems to understand core mechanics.<br>-  **Hobbies:** Reading AI Research Papers, Singing, and Exploring the "Why" behind every technology.<br><br>---<br><br>### 🛠️ Tech Stack & Tools<br>| Category | Technologies |<br>| :--- | :--- |<br>| **Languages** | Python, SQL, C++, Java (Learning) |<br>| **AI/ML** | Neural Networks, Basic NLP, Data Analysis |<br>| **Database** | MySQL, Relational DB Design |<br>| **Tools** | Git, GitHub, VS Code, Linux Basics |<br>| **Concepts** | DSA, OOPs, Computer Networks, Topologies |<br><br>---<br><br>###  My Journey So Far<br><br>- **2025:** Passed Class XII with **84%+ (Best of 4)**, securing 96/100 in English and 81/100 in CS. Took a drop for JEE preparation, learning resilience and advanced problem-solving.<br>- <br>- **2024-2025:** Conceptualized and started development on **NIKO**, my personal AI assistant. Paused due to hardware constraints, but the architecture is ready for v2.0.<br>- <br>- **2026:** Started B.Tech in CSE (AIML). Ready to leverage my self-taught skills in a structured environment.<br><br>---<br><br>###  What's Next?<br><br>I am currently rebuilding my projects with a modern tech stack and diving deeper into **Deep Learning**. <br>- ♻️ **Next Big Build:** Upgrading the Bank Management System into a full-fledged **App with UI**.<br>- 📝 **Content:** Soon sharing my learnings on DSA, AI concepts, and research paper breakdowns under **#8BitKrishna**.<br><br>---<br><br>### 🤝 Let's Connect<br>I'm always open to discussing **AI Research**, **Neural Networks**, or **Tech Innovations**.<br>- 📫 **Reach me:** [8bitkrishnaa@gmail.com]<br>- 📸 **Instagram:** @8BitKrishna [https://instagram.com/8BitKrishna]<br>- 💼 **LinkedIn:** [https://www.linkedin.com/in/8bitkrishna/]<br><br>*"The best way to predict the future is to invent it."* – Alan Kay<br><br>---<br><p align="center"><br>  Made with ❤️ and lots of ☕ by <b>8BitKrishna</b><br></p>   <br>
+👋 Hi, I'm Krishna
 
+"8BitKrishna" • Aspiring AI Engineer • Builder • CSE (AI/ML)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/8bitkrishna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/8BitKrishna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rawkrishnaa) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/8bitkrishna) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Practical_Team8774) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/8bitkrishnaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@8bitkrishnaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:8bitkrishnaa@gmail.com) 
+«I don't just write code — I build systems that make computers think.»
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=8bitkrishna&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=8bitkrishna&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=8bitkrishna&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a first-year B.Tech CSE (AI/ML) student exploring the intersection of Artificial Intelligence, Machine Learning, Software Engineering, and Computer Science.
+
+Currently, I'm focused on building strong fundamentals rather than chasing every new framework — learning how systems work under the hood, from algorithms and databases to neural networks.
 
 ---
-[![](https://komarev.com/ghpvc/?username=8bitkrishna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧠 What I'm Working On
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧩 Data Structures & Algorithms
+- 🐍 Python & Software Development
+- 🗄️ SQL & Database Systems
+- 🧠 Deep Learning fundamentals
+- ⚙️ Building real-world projects
+- 🔬 Understanding the "why" behind technology
+
+🎯 Long-Term Goal
+
+Become a high-level AI/ML engineer capable of designing, building, and deploying intelligent systems from the ground up.
+
+---
+
+🚀 Featured Project
+
+🤖 NIKO — Personal AI Assistant
+
+A personal AI assistant inspired by systems like JARVIS.
+
+NIKO is designed around the idea of a computer interface that can understand natural commands and assist with everyday digital workflows.
+
+Vision:
+
+Human
+  ↓
+Natural Language
+  ↓
+NIKO
+  ↓
+Reasoning + Tools + Memory
+  ↓
+Action
+
+The project is currently being redesigned with a more scalable architecture as I learn more about AI, software engineering, and system design.
+
+---
+
+💻 Projects
+
+🏦 Bank Management System
+
+A CLI-based banking application built using:
+
+- Python
+- MySQL
+- Database connectivity
+- CRUD operations
+- Authentication & transaction logic
+
+Built to understand how application logic interacts with a relational database.
+
+🧪 More Projects Coming
+
+I'm currently rebuilding older projects and turning what I've learned into more complete, production-style applications.
+
+---
+
+🛠️ Tech Stack
+
+Languages
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+AI / ML
+
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+Development & Tools
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+📚 Currently Learning
+
+Computer Science
+├── Data Structures & Algorithms
+├── Object-Oriented Programming
+├── Database Systems
+├── Computer Networks
+└── Operating Systems
+
+Artificial Intelligence
+├── Mathematics for ML
+├── Machine Learning
+├── Neural Networks
+├── Deep Learning
+└── NLP
+
+Software Engineering
+├── Git & GitHub
+├── APIs
+├── Backend Development
+└── System Design
+
+---
+
+🗺️ My Journey
+
+Year| Milestone
+2024| Started building small Python projects
+2025| Built Python + MySQL Bank Management System
+2025| Started exploring AI and personal assistant architecture
+2026| Started B.Tech CSE (AI/ML)
+Now| Building projects, learning DSA & ML, and strengthening CS fundamentals
+
+---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=8bitkrishna&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=8bitkrishna&theme=highcontrast&hide_border=true" height="170"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=8bitkrishna&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://instagram.com/8bitkrishna">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="https://linkedin.com/in/8bitkrishna/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/8bitkrishna">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://youtube.com/@8bitkrishnaa">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a><a href="mailto:8bitkrishnaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>---
+
+⚡ A Little More About Me
+
+- 🧠 I enjoy understanding how things work internally
+- 🤖 Fascinated by AI systems and intelligent agents
+- 💻 Currently spending most of my time around Python & Computer Science
+- 📖 Interested in research papers and emerging AI technologies
+- 🎤 I also enjoy singing
+- 🔨 I learn best by building things
+
+---
+
+<p align="center">"BUILD → BREAK → LEARN → REBUILD"
+
+The goal isn't to know everything.
+The goal is to keep getting better.
+
+<br><img src="https://komarev.com/ghpvc/?username=8bitkrishna&style=for-the-badge&color=blue"/><br><br>
+
+Made with ❤️ by 8BitKrishna
+
+</p>
