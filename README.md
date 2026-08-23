@@ -172,6 +172,6 @@ The goal is to keep getting better.
 
 <br><img src="https://komarev.com/ghpvc/?username=8bitkrishna&style=for-the-badge&color=blue"/><br><br>
 
-Made with ❤️ by 8BitKrishna
+<div> Made with ❤️ by 8BitKrishna
 
 </p>
