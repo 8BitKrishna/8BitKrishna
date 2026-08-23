@@ -26,7 +26,7 @@ Become a high-level AI/ML engineer capable of designing, building, and deploying
 
 🚀 Featured Project
 
-🤖 NIKO — Personal AI Assistant
+🤖 **NIKO** — Personal AI Assistant
 
 A personal AI assistant inspired by systems like JARVIS.
 
