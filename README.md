@@ -2,7 +2,6 @@
 
 "8BitKrishna" • Aspiring AI Engineer • Builder • CSE (AI/ML)
 
-
 I'm a first-year B.Tech CSE (AI/ML) student exploring the intersection of Artificial Intelligence, Machine Learning, Software Engineering, and Computer Science.
 
 Currently, I'm focused on building strong fundamentals rather than chasing every new framework — learning how systems work under the hood, from algorithms and databases to neural networks.
