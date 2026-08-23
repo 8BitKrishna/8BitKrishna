@@ -165,13 +165,12 @@ Now| Building projects, learning DSA & ML, and strengthening CS fundamentals
 
 ---
 
-<p align="center">"BUILD → BREAK → LEARN → REBUILD"
 
 The goal isn't to know everything.
 The goal is to keep getting better.
 
 <br><img src="https://komarev.com/ghpvc/?username=8bitkrishna&style=for-the-badge&color=blue"/><br><br>
 
-<div> Made with ❤️ by 8BitKrishna
+<div> <p align="center">Made with ❤️ by 8BitKrishna
 
 </p>
