@@ -1,4 +1,4 @@
-👋 Hi, I'm Krishna
+👋 Hey folks, I'm Krishna
 
 "8BitKrishna" • Aspiring AI Engineer • Builder • CSE (AI/ML)
 
